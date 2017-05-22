@@ -1,3 +1,4 @@
+# run as root
 apt-get update --fix-missing
 apt-get install -y default-jre
 apt-get install -y unzip
